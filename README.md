@@ -7,3 +7,5 @@ Footbar is a Python library for dealing with word pluralization.
 And a little bit of text...
 
 dodawany tekst
+
+i jeszcze jakas zmiana
