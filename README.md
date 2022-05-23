@@ -7,3 +7,6 @@ git add
 git commint -m ""
 git push
 
+git branch + nazwa branchu (nowy branch)
+git branch (zobacz ile jest gałęzi)
+git checkout + nazwa branchu (przeniesienie się do tej gałęzi)
